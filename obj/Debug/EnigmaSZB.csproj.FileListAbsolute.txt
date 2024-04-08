@@ -1,0 +1,7 @@
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\bin\Debug\EnigmaSZB.exe.config
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\bin\Debug\EnigmaSZB.exe
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\bin\Debug\EnigmaSZB.pdb
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\obj\Debug\EnigmaSZB.csproj.AssemblyReference.cache
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\obj\Debug\EnigmaSZB.csproj.CoreCompileInputs.cache
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\obj\Debug\EnigmaSZB.exe
+C:\Users\Szántó Benjámin\source\repos\EnigmaSZB\EnigmaSZB\obj\Debug\EnigmaSZB.pdb

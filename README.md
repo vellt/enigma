@@ -1,5 +1,9 @@
 # Enigma
+Az "Enigma" egy olyan titkosító és dekódoló eszköz, amelyet a második világháborúban a német hadsereg és titkosszolgálatok használtak a kommunikációjuk kódolására.
+## Enigma működése
+https://www.youtube.com/watch?v=ybkkiGtJmkM
 
+## Enigma program használata
 ```C#
 // ENIGMA beállításai
 // Key (kulcs - tárcsák állása): K-E-T
